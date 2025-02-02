@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# additional ignorables
+api_keys.py
+Starter_Code
